@@ -63,10 +63,11 @@ experiences:
           - Jquery
     - role: Stajyer
       time: 2018 - 2019
-      company: Entegrasyon Bİlişim
+      company: Entegrasyon Bilişim
       details: |
+          - Referans: Ömer Kılıç
           - http://www.entegrasyonbilisim.com/
-          - Mobil Plasiyer
+          - Proje: Mobil Saha Yazılımı Dara Plus
 projects:
     title: Projelerim
     intro: >
