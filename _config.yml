@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Mustafa Zuvin CV
-url: 'http://mustafa.ciftklik.net'
+url: 'https://mustafa.ciftklik.net'
 baseurl: '/online-cv' #change it according to your repository name
 description: Keyfince Yazılımcı
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
