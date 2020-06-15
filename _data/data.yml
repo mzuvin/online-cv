@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: Hakkımda
     summary: |
-      Kodlamaya 128x128 Telefon ekranında Wap siteler açarak başladım. Jquery ile tanıştım programlamanın html ve css den ibaret olmadığını anladım. 
+      Sene 2012 kodlamaya 128x128 Telefon ekranında Wap siteler açarak başladım. Jquery ile tanıştım programlamanın html ve css den ibaret olmadığını anladım. 
       Bütün tercihleri bilgisayar mühendisliği olan biri olarak kayısı diyarı Malatya İnönü Üniversitesi'ni kazanana kadar neyi nereden öğrenmeliydim bilmiyordum.
       Okulun google'lama yeteneği kazandırdıktan sonra okuldan gösterilmeyen Python Javascript dillerine merak saldım. Ve artık mezun oldum. 
 education:
@@ -68,7 +68,7 @@ experiences:
           - http://www.entegrasyonbilisim.com/
           - Mobil Plasiyer
 projects:
-    title: Projects
+    title: Projelerim
     intro: >
       Projelerim.
     assignments:
@@ -103,8 +103,7 @@ projects:
 
 
 skills:
-    title: İlgi alanlarım
-
+    title: ilgi alanlarım
     toolset:
       - name: Python & Flask
         level: 90%
