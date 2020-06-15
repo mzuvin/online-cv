@@ -8,3 +8,13 @@
 {% if site.analytics %}
   {% include analytics.html %}
 {% endif %}
+
+<!-- print -->
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var url_string = window.location.href
+var url = new URL(url_string);
+var c = url.searchParams.get("pdf");
+if (c==1){ window.print(); }
+}, false);
+</script>
