@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: mustafa@ciftklik.net
     phone: 5530000000
     website: ciftklik.net #do not add http://
     linkedin: mzuvin
@@ -30,14 +30,8 @@ sidebar:
         level: Orta
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Şiir,Nesir
+        link: '#'
 
 career-profile:
     title: Hakkımda
@@ -50,7 +44,7 @@ education:
       university: İnönü Üniversitesi
       time: 2016 - 2020
       details: |
-        Malatya'nın tek gelişmiş şehri.
+        Mezun
           - 
           - 
 experiences:
@@ -61,7 +55,7 @@ experiences:
         Amatörlerin profesyonel ruhu. Halı Saha Video Ağı - Sahago
           - Python
           - Flask
-          - PostgreSql
+          - Postgresql
           - Bash - Ffmpeg
           - Gunicorn
           - Rtsp2Hls
@@ -76,9 +70,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Projelerim.
     assignments:
       - title: ciftklik.net
         link: "https://ciftklik.net"
@@ -108,49 +100,30 @@ projects:
         link: "https://github.com/mzuvin/rekabetAnalizi"
         tagline: "Hepsiburada,N11 web scraping."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: İlgi alanlarım
 
     toolset:
       - name: Python & Flask
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+        level: 90%
+      
+      - name: Java
+        level: 48%
+      
+      - name: Android
+        level: 38%
+      
+      - name: PostgreSql
         level: 60%
+        
+      - name: Javascript & jQuery
+        level: 90%
+       
+      - name: HTML5 & CSS
+        level: 75%
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
