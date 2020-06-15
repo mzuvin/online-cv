@@ -58,9 +58,9 @@ experiences:
           - Postgresql
           - Bash - Ffmpeg
           - Gunicorn
+          - Nginx
           - Rtsp2Hls
           - Jquery
-          - 
     - role: Stajyer
       time: 2018 - 2019
       company: Entegrasyon Bİlişim
