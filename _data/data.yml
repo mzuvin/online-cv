@@ -100,7 +100,23 @@ projects:
       - title: Rekabet Analizi
         link: "https://github.com/mzuvin/rekabetAnalizi"
         tagline: "Hepsiburada,N11 web scraping."
-
+      
+      - title: Otomatik Slayt Oluşturucu
+        link: "https://gist.github.com/mzuvin/b9b93b145f9670ea74d70b54c3ac509c"
+        tagline: "Web sitesinden alınan resimlerle video oluşturucu."
+        
+      - title: Wifi Manager Chrome Extension
+        link: "https://github.com/mzuvin/KykWifiKota"
+        tagline: "KYKWİFİ Kota Dostu Chrome Extension"
+      
+      - title: Live Radio ReStreaming on Facebook Live
+        link: "https://github.com/mzuvin/ReStreaming"
+        tagline: "Facebook Developer Api ile Canlı İnternet Radyoların Facebook üzerinden canlı olarak yayınlanması. Python, Ffmpeg."
+      
+      - title: Radio Recorder
+        link: "https://github.com/mzuvin/radioRecorder"
+        tagline: "Online Radyoların Kayıt edilmesi. Arşiv."
+      
 
 
 skills:
