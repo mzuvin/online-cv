@@ -75,47 +75,47 @@ projects:
     assignments:
       - title: ciftklik.net
         link: "https://ciftklik.net"
-        tagline: "Blog"
+        tagline: "[Bloggger]"
 
       - title: adsbypasser
         link: "https://adsbypasser.ciftklik.net"
-        tagline: "Short link service bypass"
+        tagline: "[Python,Webapp2] Short link service bypass"
 
       - title: sahago.com
         link: "https://sahago.com"
-        tagline: "Halı Saha Video Ağı, Rezervasyon"
+        tagline: "[Flask,Flask-Admin, Jquery, PostgreSql] Halı Saha Video Ağı, Rezervasyon"
 
       - title: kanbankası
         link: "http://bit.ly/git-kanbankasi"
-        tagline: "Design Patterns(Singleton,Adapter,Mediator) ile web projesi geliştirme."
+        tagline: "[Flask,Jquery,Boostrap] Design Patterns(Singleton,Adapter,Mediator) ile web projesi geliştirme."
 
       - title: Cassandra Blob Video
         link: "https://github.com/mzuvin/cassandra-blob-video"
-        tagline: "Artan web trafiği sebebi ile sunucuların da yükü artmıştır. Bu sebeble video sunucularının kullanıcılara en iyi hizmet verebilmesi için videoların depolanması, sunucular arası paylaşımı sorunlarına çözüm için bu proje fikri doğmuştur. Cassandra ve Tornado kullanılmıştır"
+        tagline: "[Cassandra, Tornado] Artan web trafiği sebebi ile sunucuların da yükü artmıştır. Bu sebeble video sunucularının kullanıcılara en iyi hizmet verebilmesi için videoların depolanması, sunucular arası paylaşımı sorunlarına çözüm için bu proje fikri doğmuştur. Cassandra ve Tornado kullanılmıştır"
 
       - title: Mobil Saha Yazılımı Dara Plus
         link: "https://github.com/mzuvin/MobilSahaSatis"
-        tagline: "Dara Plus Mobil Plasiyer Android Uygulaması. Javascript(DroidScript), Java"
+        tagline: "[Java,Javascript,Droidscript,Mssql] Dara Plus Mobil Plasiyer Android Uygulaması. Javascript(DroidScript), Java"
 
       - title: Rekabet Analizi
         link: "https://github.com/mzuvin/rekabetAnalizi"
-        tagline: "Hepsiburada,N11 web scraping."
+        tagline: "[Webapp2, Regex] Hepsiburada,N11 web scraping."
       
       - title: Otomatik Slayt Oluşturucu
         link: "https://gist.github.com/mzuvin/b9b93b145f9670ea74d70b54c3ac509c"
-        tagline: "Web sitesinden alınan resimlerle video oluşturucu."
+        tagline: "[Python,Ffmpeg] Web sitesinden alınan resimlerle video oluşturucu."
         
       - title: Wifi Manager Chrome Extension
         link: "https://github.com/mzuvin/KykWifiKota"
-        tagline: "KYKWİFİ Kota Dostu Chrome Extension"
+        tagline: "[Javascript] KYKWİFİ Kota Dostu Chrome Extension"
       
       - title: Live Radio ReStreaming on Facebook Live
         link: "https://github.com/mzuvin/ReStreaming"
-        tagline: "Facebook Developer Api ile Canlı İnternet Radyoların Facebook üzerinden canlı olarak yayınlanması. Python, Ffmpeg."
+        tagline: "[Python, Ffmpeg] Facebook Developer Api ile Canlı İnternet Radyoların Facebook üzerinden canlı olarak yayınlanması."
       
       - title: Radio Recorder
         link: "https://github.com/mzuvin/radioRecorder"
-        tagline: "Online Radyoların Kayıt edilmesi. Arşiv."
+        tagline: "[Python] Online Radyoların Kayıt edilmesi. Arşiv."
       
 
 
