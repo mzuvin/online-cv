@@ -35,22 +35,20 @@ sidebar:
 career-profile:
     title: Hakkımda
     summary: |
-	  Sene 2012 kodlamaya 128x128 Telefon ekranında wap siteler açarak başladım. Evet yanlış duymadınız, GPRS Teknolojisi ile.
-	  Benim için imkansız sadece kelime :) 
-	  Yazılıma Javascript, C, Java, C#, Python ile giriş yaptım. Python, JavaScript yazıyorum.
-	  
-      Severek Kullandığım Teknolojiler
-
-	  Web: Html,Css,Javascript,(Jquery)
-	  Backend: Python,NodeJs,RESTful,JSON,XML,Webapi 
-	  DB: PostgreSql, Cassandra, MySQL
-	  Web Framework: Flask, Tornado, Webapp2 
-	  Diğer: Ffmpeg, Rtsp2Hls(Bash Script) 
-
-	  Geliştirme Ortamım:
-	  PC: Ubuntu 18
-	  Editör: Sublime Editör & Sublime Merge
-	  Laptop Sehpası :)
+        Sene 2012 kodlamaya 128x128 Telefon ekranında wap siteler açarak başladım. Evet yanlış duymadınız, GPRS Teknolojisi ile.
+	Benim için imkansız sadece kelime :) 
+	Yazılıma Javascript, C, Java, C#, Python ile giriş yaptım. Python, JavaScript yazıyorum.
+	
+	Severek Kullandığım Teknolojiler
+	Web: Html,Css,Javascript,(Jquery)
+	Backend: Python,NodeJs,RESTful,JSON,XML,Webapi 
+	DB: PostgreSql, Cassandra, MySQL
+	Web Framework: Flask, Tornado, Webapp2 
+	Diğer: Ffmpeg, Rtsp2Hls(Bash Script) 
+	Geliştirme Ortamım:
+	PC: Ubuntu 18
+	Editör: Sublime Editör & Sublime Merge
+	Laptop Sehpası :)
 education:
     - degree: Bilgisayar Mühendisliği
       university: İnönü Üniversitesi
@@ -84,25 +82,29 @@ projects:
     intro: >
       Projelerim.
     assignments:
-      - title: ciftklik.net
+      - title: Ciftklik.net
         link: "https://ciftklik.net"
         tagline: "[Bloggger]"
 
-      - title: adsbypasser
+      - title: Adsbypasser
         link: "https://adsbypasser.ciftklik.net"
         tagline: "[Python,Webapp2] Short link service bypass"
-
-      - title: sahago.com
+      
+      - title: İp Camera Recorder
+      	link: "#"
+	tagline: "[RTSP,FFMPEG,BASH] İp Kameralarının Linux Sunucu Üzerinde Kayıt edilmesi"
+      
+      - title: Sahago.com
         link: "https://sahago.com"
         tagline: "[Flask,Flask-Admin, Jquery, PostgreSql] Halı Saha Video Ağı, Rezervasyon"
 
-      - title: desing-patterns
+      - title: Desing-patterns
         link: "https://github.com/mzuvin/Flask-Design-Patterns"
-        tagline: "Design Patterns(Singleton,Adapter,Mediator) with flask framework"
+        tagline: "[Postgresql,Flask,Jquery,Boostrap, RESTful] Design Patterns(Singleton,Adapter,Mediator) with flask framework"
 
-      - title: kanbankası
+      - title: Kanbankası
         link: "http://bit.ly/git-kanbankasi"
-        tagline: "[Flask,Jquery,Boostrap] Design Patterns(Singleton,Adapter,Mediator) ile web projesi geliştirme."
+        tagline: "[Python, Tkinter, C#] Tkinter ve C# form uygulaması"
 
       - title: Cassandra Blob Video
         link: "https://github.com/mzuvin/cassandra-blob-video"
