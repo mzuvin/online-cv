@@ -65,9 +65,7 @@ experiences:
       time: 2018 - 2019
       company: Entegrasyon Bilişim
       details: |
-          - Referans: Ömer Kılıç
-          - http://www.entegrasyonbilisim.com/
-          - Proje: Mobil Saha Yazılımı Dara Plus
+          - Proje: Mobil Saha Yazılımı (hybrid & native) Android App
 projects:
     title: Projelerim
     intro: >
@@ -84,6 +82,10 @@ projects:
       - title: sahago.com
         link: "https://sahago.com"
         tagline: "[Flask,Flask-Admin, Jquery, PostgreSql] Halı Saha Video Ağı, Rezervasyon"
+
+      - title: desing-patterns
+        link: "https://github.com/mzuvin/Flask-Design-Patterns"
+        tagline: "Design Patterns(Singleton,Adapter,Mediator) with flask framework"
 
       - title: kanbankası
         link: "http://bit.ly/git-kanbankasi"
@@ -132,7 +134,7 @@ skills:
         level: 38%
       
       - name: PostgreSql
-        level: 60%
+        level: 70%
         
       - name: Javascript & jQuery
         level: 90%
