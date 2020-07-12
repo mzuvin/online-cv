@@ -43,6 +43,8 @@ career-profile:
         
         Şuan Python, JavaScript yazıyorum.
         
+        2017'den beri yazdığım Keyfince Yazılım Blogum var. 
+        
         Severek Kullandığım Teknolojiler
           - Web: Html,Css,Javascript,(Jquery)
           - Backend: Python,NodeJs,RESTful,JSON,XML,Webapi 
@@ -90,7 +92,7 @@ projects:
     assignments:
       - title: Ciftklik.net
         link: "https://ciftklik.net"
-        tagline: "[Bloggger]"
+        tagline: "[Blogger] 2017'den beri blog yazdığım web sitem"
 
       - title: Adsbypasser
         link: "https://adsbypasser.ciftklik.net"
