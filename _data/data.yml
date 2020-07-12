@@ -35,9 +35,22 @@ sidebar:
 career-profile:
     title: Hakkımda
     summary: |
-      Sene 2012 kodlamaya 128x128 Telefon ekranında Wap siteler açarak başladım. Jquery ile tanıştım programlamanın html ve css den ibaret olmadığını anladım. 
-      Bütün tercihleri bilgisayar mühendisliği olan biri olarak kayısı diyarı Malatya İnönü Üniversitesi'ni kazanana kadar neyi nereden öğrenmeliydim bilmiyordum.
-      Okulun google'lama yeteneği kazandırdıktan sonra okuldan gösterilmeyen Python Javascript dillerine merak saldım. Ve artık mezun oldum. 
+	  Sene 2012 kodlamaya 128x128 Telefon ekranında wap siteler açarak başladım. Evet yanlış duymadınız, GPRS Teknolojisi ile.
+	  Benim için imkansız sadece kelime :) 
+	  Yazılıma Javascript, C, Java, C#, Python ile giriş yaptım. Python, JavaScript yazıyorum.
+	  
+      Severek Kullandığım Teknolojiler
+
+	  Web: Html,Css,Javascript,(Jquery)
+	  Backend: Python,NodeJs,RESTful,JSON,XML,Webapi 
+	  DB: PostgreSql, Cassandra, MySQL
+	  Web Framework: Flask, Tornado, Webapp2 
+	  Diğer: Ffmpeg, Rtsp2Hls(Bash Script) 
+
+	  Geliştirme Ortamım:
+	  PC: Ubuntu 18
+	  Editör: Sublime Editör & Sublime Merge
+	  Laptop Sehpası :)
 education:
     - degree: Bilgisayar Mühendisliği
       university: İnönü Üniversitesi
