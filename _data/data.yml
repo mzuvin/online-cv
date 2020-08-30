@@ -154,11 +154,17 @@ projects:
 skills:
     title: ilgi alanlarım
     toolset:
-      - name: Python & Flask
-        level: 90%
-      
+      - name: Python
+        level: 80%
+
+      - name: Flask
+        level: 99%
+        
       - name: Java
         level: 48%
+
+      - name: C# .Net Core
+        level: 40% 
       
       - name: Android
         level: 38%
