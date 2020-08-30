@@ -68,8 +68,13 @@ education:
           - 
 experiences:
     - title: Deneyim
+    - role: Stajyer Mühendis
+      time: 2020
+      company: Biletall.com
+      details: |
+          - .Net Core developer
     - role: Freelancer
-      time: 2020 - Devam
+      time: 2020
       company: Sahago.com
       details: |
         Amatörlerin profesyonel ruhu. Halı Saha Video Ağı - Sahago
@@ -86,6 +91,7 @@ experiences:
       company: Entegrasyon Bilişim
       details: |
           - Proje: Mobil Saha Yazılımı (hybrid & native) Android App
+    
 projects:
     title: Projelerim
     intro: >
