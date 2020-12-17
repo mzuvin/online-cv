@@ -36,28 +36,25 @@ sidebar:
 career-profile:
     title: Hakkımda
     summary: |
-        Sene 2012 kodlamaya 128x128 Telefon ekranında wap siteler açarak başladım. Evet yanlış duymadınız, GPRS Teknolojisi ile.
-        
-        Benim için imkansız sadece kelime :) 
+        Sene 2012 kodlamaya 128x128 Telefon ekranında wap siteler açarak başladım. 
         
         Yazılıma Javascript, C, Java, C#, Python ile giriş yaptım. 
         
-        Şuan Python, JavaScript yazıyorum.
+        JavaScript ve Python yazmayı seviyorum.
         
-        2017'den beri yazdığım Keyfince Yazılım Blogum var. 
+        2017'den beri yazdığım Blogum var. 
         
         Severek Kullandığım Teknolojiler
           - Web: Html,Css,Javascript,(Jquery)
-          - Backend: Python,NodeJs,RESTful,JSON,XML,Webapi 
-          - DB: PostgreSql, Cassandra, MySQL
+          - Backend: Python,NodeJs,RESTful,JSON,XML 
+          - DB: PostgreSql, Cassandra, MySQL, Firebase
           - Web Framework: Flask, Tornado, Webapp2 
-          - Mobil:Android,Droidscript
-          - Diğer: Ffmpeg, Rtsp2Hls(Bash Script) 
+          - Mobil: Android(Java), Flutter(Dart)
+          - Diğer: Ffmpeg 
           
           Geliştirme Ortamım:
             - PC: Ubuntu 18
-            - Editör: Sublime Editör & Sublime Merge
-            - Laptop Sehpası :)
+            - Editör: VSCode, Sublime Editör & Sublime Merge
 education:
     - degree: Bilgisayar Mühendisliği
       university: İnönü Üniversitesi
@@ -68,14 +65,14 @@ education:
           - 
 experiences:
     - title: Deneyim
-    - role: Stajyer Mühendis
+    - role: Stajyer Mühendis ( 1 ay )
       time: 2020
       company: Biletall.com
       details: |
-          - .Net Core developer
+          - .Net Core Developer
     - role: Freelancer
       time: 2020
-      company: Sahago.com
+      company: Sahago.com ( 6 ay )
       details: |
         Amatörlerin profesyonel ruhu. Halı Saha Video Ağı - Sahago
           - Python
@@ -84,9 +81,8 @@ experiences:
           - Bash - Ffmpeg
           - Gunicorn
           - Nginx
-          - Rtsp2Hls
           - Jquery
-    - role: Stajyer
+    - role: Stajyer ( 2 ay )
       time: 2018 - 2019
       company: Entegrasyon Bilişim
       details: |
@@ -104,6 +100,10 @@ projects:
       - title: Adsbypasser
         link: "https://adsbypasser.ciftklik.net"
         tagline: "[Python,Webapp2] Short link service bypass"
+      
+      - title: Biletall.com Clon
+        link: "#"
+        tagline: "[Net Core] Biletall kopyası xml soap servis api bağlanması web arayüz oluşturulması"
       
       - title: ip Camera Recorder Rtsp2Hls
         link: "#"
@@ -167,7 +167,10 @@ skills:
         level: 40% 
       
       - name: Android
-        level: 38%
+        level: 40%
+      
+      - name: Flutter
+        level: 44%
       
       - name: PostgreSql
         level: 70%
