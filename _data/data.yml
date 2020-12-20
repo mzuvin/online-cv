@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Mustafa Zuvin
-    tagline: Bilgisayar Mühendisi
+    tagline: Computer Engineering
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,24 +27,24 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Orta
+        level: A1
 
     interests:
-      - item: Şiir,Nesir
+      - item: Poetry, Chess
         link: '#'
 
 career-profile:
     title: Hakkımda
     summary: |
-        Sene 2012 kodlamaya 128x128 Telefon ekranında wap siteler açarak başladım. 
+        I started the year 2012 coding by opening wap sites on 128x128 phone screen.
         
-        Yazılıma Javascript, C, Java, C#, Python ile giriş yaptım. 
+        I started programming with Javascript, C, Java, C #, Python
         
-        JavaScript ve Python yazmayı seviyorum.
+        I love Javascript and Python coding.
         
-        2017'den beri yazdığım Blogum var. 
+        I've been blogging since 2017.
         
-        Severek Kullandığım Teknolojiler
+        Capabilities
           - Web: Html,Css,Javascript,(Jquery)
           - Backend: Python,NodeJs,RESTful,JSON,XML 
           - DB: PostgreSql, Cassandra, MySQL, Firebase
@@ -52,25 +52,23 @@ career-profile:
           - Mobil: Android(Java), Flutter(Dart)
           - Diğer: Ffmpeg 
           
-          Geliştirme Ortamım:
+          My Development Environment
             - PC: Ubuntu 18
-            - Editör: VSCode, Sublime Editör & Sublime Merge
+            - Editor: VSCode, Sublime Editor & Sublime Merge
 education:
-    - degree: Bilgisayar Mühendisliği
-      university: İnönü Üniversitesi
+    - degree: Computer Engineering
+      university: Inonu University
       time: 2016 - 2020
       details: |
-        Mezun
-          - 
-          - 
+      
 experiences:
-    - title: Deneyim
-    - role: Stajyer Mühendis ( 1 ay )
+    - title: experiences
+    - role: Intern ( 1 month )
       time: 2020
       company: Biletall.com
       details: |
           - .Net Core Developer
-    - role: Freelancer ( 6 ay )
+    - role: Freelancer ( 6 month )
       time: 2020
       company: Sahago.com 
       details: |
@@ -82,20 +80,20 @@ experiences:
           - Gunicorn
           - Nginx
           - Jquery
-    - role: Stajyer ( 2 ay )
+    - role: Intern ( 2 ay )
       time: 2018 - 2019
       company: Entegrasyon Bilişim
       details: |
-          - Proje: Mobil Saha Yazılımı (hybrid & native) Android App
+          - Project: Mobil Saha Yazılımı (hybrid & native) Android App
     
 projects:
-    title: Projelerim
+    title: projects
     intro: >
-      Projelerim.
+      My Projects.
     assignments:
       - title: Ciftklik.net
         link: "https://ciftklik.net"
-        tagline: "[Blogger] 2017'den beri blog yazdığım web sitem"
+        tagline: "[Blogger] I've been blogging since 2017."
 
       - title: Adsbypasser
         link: "https://adsbypasser.ciftklik.net"
@@ -103,39 +101,39 @@ projects:
       
       - title: Biletall.com Clon
         link: "#"
-        tagline: "[Net Core] Biletall kopyası xml soap servis api bağlanması web arayüz oluşturulması"
+        tagline: "[Net Core] Copy of Biletall.com site. Connecting the Xml SOAP service api, creating web interface applications"
       
-      - title: ip Camera Recorder Rtsp2Hls
+      - title: Ip Camera Recorder Rtsp2Hls
         link: "#"
-        tagline: "[FFMPEG,BASH] İp Kamera Video Arşivi"
+        tagline: "[FFMPEG,BASH] Ip Camera Video Archive"
       
       - title: Sahago.com
         link: "https://sahago.com"
-        tagline: "[Flask,Flask-Admin, Jquery, PostgreSql] Halı Saha Video Ağı, Rezervasyon"
+        tagline: "[Flask,Flask-Admin, Jquery, PostgreSql] Football Field Video Network, Reservation System"
 
       - title: Desing-patterns
         link: "https://github.com/mzuvin/Flask-Design-Patterns"
         tagline: "[Postgresql,Flask,Jquery,Boostrap, RESTful] Design Patterns(Singleton,Adapter,Mediator) with flask framework"
 
-      - title: Kanbankası
+      - title: BloodBank
         link: "http://bit.ly/git-kanbankasi"
-        tagline: "[Python, Tkinter, C#] Tkinter ve C# form uygulaması"
+        tagline: "[Python, Tkinter, C#] Tkinter ve C# form application"
 
       - title: Cassandra Blob Video
         link: "https://github.com/mzuvin/cassandra-blob-video"
-        tagline: "[Cassandra, Tornado] Artan web trafiği sebebi ile sunucuların da yükü artmıştır. Bu sebeble video sunucularının kullanıcılara en iyi hizmet verebilmesi için videoların depolanması, sunucular arası paylaşımı sorunlarına çözüm için bu proje fikri doğmuştur. Cassandra ve Tornado kullanılmıştır"
+        tagline: "[Cassandra, Tornado] Due to the increasing web traffic, the load of the servers has also increased. For this reason, this project idea was born to solve the problems of storing videos and sharing between servers so that video servers can provide the best service to users. Used Cassandra and Tornado"
 
-      - title: Mobil Saha Yazılımı Dara Plus
+      - title: Dara Plus Android Application
         link: "https://github.com/mzuvin/MobilSahaSatis"
-        tagline: "[Java,Javascript,Droidscript,Mssql] Dara Plus Mobil Plasiyer Android Uygulaması. Javascript(DroidScript), Java"
+        tagline: "[Java,Javascript,Droidscript,Mssql] Droidscript android application."
 
-      - title: Rekabet Analizi
+      - title: Web scraping.
         link: "https://github.com/mzuvin/rekabetAnalizi"
         tagline: "[Webapp2, Regex] Hepsiburada,N11 web scraping."
       
-      - title: Otomatik Slayt Oluşturucu
+      - title: Video maker Script
         link: "https://gist.github.com/mzuvin/b9b93b145f9670ea74d70b54c3ac509c"
-        tagline: "[Python,Ffmpeg] Web sitesinden alınan resimlerle video oluşturucu."
+        tagline: "[Python,Ffmpeg] Video maker python script with images taken from website"
         
       - title: Wifi Manager Chrome Extension
         link: "https://github.com/mzuvin/KykWifiKota"
@@ -143,42 +141,42 @@ projects:
       
       - title: Live Radio ReStreaming on Facebook Live
         link: "https://github.com/mzuvin/ReStreaming"
-        tagline: "[Python, Ffmpeg] Facebook Developer Api ile Canlı İnternet Radyoların Facebook üzerinden canlı olarak yayınlanması."
+        tagline: "[Python, Ffmpeg] Broadcasting Live Internet Radios on Facebook with Facebook Developer Api."
       
       - title: Radio Recorder
         link: "https://github.com/mzuvin/radioRecorder"
-        tagline: "[Python] Online Radyoların Kayıt edilmesi. Arşiv."
+        tagline: "[Python] Recording Shoutcast Online Radios. Archive."
       
 
 
 skills:
-    title: ilgi alanlarım
+    title: Skills
     toolset:
-      - name: Python
+      - name: Python 80%
         level: 80%
 
-      - name: Flask
+      - name: Flask 99%
         level: 99%
         
-      - name: Java
+      - name: Java 48%
         level: 48%
 
-      - name: C# .Net Core
+      - name: C# .Net Core 40%
         level: 40% 
       
-      - name: Android
+      - name: Android 40%
         level: 40%
       
-      - name: Flutter
+      - name: Flutter 44%
         level: 44%
       
-      - name: PostgreSql
+      - name: PostgreSql 70%
         level: 70%
         
-      - name: Javascript & jQuery
+      - name: Javascript & jQuery 90%
         level: 90%
        
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS 75%
         level: 75%
         
 
